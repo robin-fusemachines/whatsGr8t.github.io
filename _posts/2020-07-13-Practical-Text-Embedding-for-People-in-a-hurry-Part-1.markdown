@@ -72,14 +72,3 @@ The training architecture is , (s_(i-1) , s_i , s_(i+1)  ) , the encoder takes i
 ## Use simple text classification dataset, and check how
 ## nearest neighbour on classification performs with these unsupervised approaches. i.e without training
  -->
-
-
-
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
